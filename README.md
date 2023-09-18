@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a master student at the [Institute for Geoinformatics (ifgi)](https://www.uni-muenster.de/Geoinformatics/en/index.html), where I also work as a research assistant. As a member in the research project [senseBox](https://github.com/sensebox), I develop open science based educational technologies. By further pursuing study projects of the master program supported by university funding programs, I am developing a [smart bird feeder](https://github.com/CountYourBirds) in a group of three students to push biodiversity monitoring using artificial intelligence. 
+I am a master student at the [Institute for Geoinformatics (ifgi)](https://www.uni-muenster.de/Geoinformatics/en/index.html), where I also work as a research assistant. As a member in the research project [TinyAIoT](https://sensebox.de/de/research-tinyaiot) associated to the [senseBox](https://github.com/sensebox) project, I develop energy and resource efficient IoT applications and open science based educational technologies. By further pursuing study projects of the master program supported by university funding programs, I am developing a [smart bird feeder]([https://github.com/CountYourBirds](https://github.com/Birdiary)) to push biodiversity monitoring using artificial intelligence. 
 
 <!--
 **tnier01/tnier01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
