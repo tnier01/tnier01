@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a research software engineer at the [Chair of Geoinformatics](https://tu-dresden.de/bu/umwelt/geo/geoinformatik/?set_language=en), [TU Dresden](https://tu-dresden.de/). In the projects NFDI4Earth and KOMET I develop tools and infrastructure for open and reproducible research in the Earth System Sciences. 
+I am a research software engineer at the [Chair of Geoinformatics](https://tu-dresden.de/bu/umwelt/geo/geoinformatik/?set_language=en), [TU Dresden](https://tu-dresden.de/). In the projects [NFDI4Earth](https://www.nfdi4earth.de/) and [KOMET](https://projects.tib.eu/komet/en/) I develop tools and infrastructure for open and reproducible research in the Earth System Sciences. 
 During my studies I worked on a [smart bird feeder](https://github.com/Birdiary) to push biodiversity monitoring using artificial intelligence. 
 
 <!--
